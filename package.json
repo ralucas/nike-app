@@ -1,7 +1,7 @@
 {
-  "name": "loopback-example-full-stack",
+  "name": "nike-app",
   "version": "0.0.1",
-  "description": "LoopBack browser and server example",
+  "description": "App for using Nike API",
   "main": "server/server.js",
   "directories": {
     "test": "test"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strongloop/loopback-example-full-stack.git"
+    "url": "git://github.com/ralucas/nike-app"
   },
   "keywords": [
     "loopback",
@@ -20,12 +20,12 @@
     "browser",
     "server"
   ],
-  "author": "Ritchie Martori",
+  "author": "Richard Lucas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/strongloop/loopback-example-full-stack/issues"
+    "url": "https://github.com/ralucas/nike-app"
   },
-  "homepage": "https://github.com/strongloop/loopback-example-full-stack",
+  "homepage": "https://github.com/ralucas/nike-app",
   "devDependencies": {
     "async": "~0.7.0",
     "bower": "^1.3.3",
